@@ -5,12 +5,16 @@
     "App": 1,
     "HomeScreen": 3,
     "Image1": 6,
+    "Image1_1": 10,
     "Label1": 4,
-    "TextInput1": 5
+    "Label1_1": 8,
+    "Live Screen": 7,
+    "TextInput1": 5,
+    "TextInput1_1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:50:58",
+  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:51:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -35,16 +39,24 @@
     "App": {},
     "HomeScreen": {},
     "Image1": {},
+    "Image1_1": {},
     "Label1": {},
-    "TextInput1": {}
+    "Label1_1": {},
+    "Live Screen": {},
+    "TextInput1": {},
+    "TextInput1_1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "HomeScreen": 0,
     "Image1": 0,
+    "Image1_1": 0,
     "Label1": 0,
-    "TextInput1": 0
+    "Label1_1": 0,
+    "Live Screen": 0,
+    "TextInput1": 0,
+    "TextInput1_1": 0
   },
   "ResourcesJsonIndices": {
     "Image-MicrosoftTeams-image (2)": 1,
@@ -55,10 +67,10 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0870468,
     "ControlCount": {
-      "image": 1,
-      "label": 1,
-      "screen": 1,
-      "text": 1
+      "image": 2,
+      "label": 2,
+      "screen": 2,
+      "text": 2
     },
     "DeserializationLoadTime": 1.3198669,
     "ErrorCount": 0

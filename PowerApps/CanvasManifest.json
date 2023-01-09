@@ -115,6 +115,7 @@
   "ScreenOrder": [
     "HomeScreen",
     "Live Screen",
-    "Screen1"
+    "Screen1",
+    "Live Screen_1"
   ]
 }

@@ -6,15 +6,19 @@
     "HomeScreen": 3,
     "Image1": 6,
     "Image1_1": 10,
+    "Image1_2": 14,
     "Label1": 4,
     "Label1_1": 8,
+    "Label1_2": 12,
     "Live Screen": 7,
+    "Live Screen_1": 11,
     "TextInput1": 5,
-    "TextInput1_1": 9
+    "TextInput1_1": 9,
+    "TextInput1_2": 13
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:51:16",
+  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:51:59",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -22,7 +26,7 @@
     "MicrosoftTeams-image (2)": "ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png"
   },
   "LocalResourceRootPaths": {
-    "MicrosoftTeams-image (2)": "https://docserverpwaprodeus.blob.core.windows.net/727b3f69-d2bf-4f84-b22d-900cfeca6bb2-1/resource/Assets0Images0ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png?sv=2017-04-17&sr=b&sig=NirizAwUgsImTwv1ZilVjoijwUnPLITja8H0uSMcgZM%3D&spr=https&se=2023-01-10T14%3A05%3A42Z&sp=r"
+    "MicrosoftTeams-image (2)": "https://docserverpwaprodeus.blob.core.windows.net/25e0fb9d-2e70-43ff-bb72-0b8816d8a814-1/resource/Assets0Images0ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png?sv=2017-04-17&sr=b&sig=A1UJc%2F8jyzSU%2B%2FQPn4vNBK%2BilqlfdprrqCvXAu%2Bl9dg%3D&spr=https&se=2023-01-10T14%3A06%3A42Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -40,11 +44,15 @@
     "HomeScreen": {},
     "Image1": {},
     "Image1_1": {},
+    "Image1_2": {},
     "Label1": {},
     "Label1_1": {},
+    "Label1_2": {},
     "Live Screen": {},
+    "Live Screen_1": {},
     "TextInput1": {},
-    "TextInput1_1": {}
+    "TextInput1_1": {},
+    "TextInput1_2": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
@@ -52,11 +60,15 @@
     "HomeScreen": 0,
     "Image1": 0,
     "Image1_1": 0,
+    "Image1_2": 0,
     "Label1": 0,
     "Label1_1": 0,
+    "Label1_2": 0,
     "Live Screen": 0,
+    "Live Screen_1": 0,
     "TextInput1": 0,
-    "TextInput1_1": 0
+    "TextInput1_1": 0,
+    "TextInput1_2": 0
   },
   "ResourcesJsonIndices": {
     "Image-MicrosoftTeams-image (2)": 1,
@@ -65,14 +77,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0870468,
+    "AnalysisLoadTime": 0.0802269,
     "ControlCount": {
-      "image": 2,
-      "label": 2,
-      "screen": 2,
-      "text": 2
+      "image": 3,
+      "label": 3,
+      "screen": 3,
+      "text": 3
     },
-    "DeserializationLoadTime": 1.3198669,
+    "DeserializationLoadTime": 0.7748068,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

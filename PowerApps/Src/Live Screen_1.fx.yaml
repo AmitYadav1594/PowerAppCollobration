@@ -1,0 +1,30 @@
+"'Live Screen_1' As screen":
+
+    Label1_2 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(221, 79, 14, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =21
+        Text: ="PowerApp Collobration 1"
+        Width: =Parent.Width
+        ZIndex: =1
+
+    TextInput1_2 As text:
+        Default: ="Text input"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =26
+        Y: =198
+        ZIndex: =2
+
+    Image1_2 As image:
+        Height: =320
+        Image: ='MicrosoftTeams-image (2)'
+        Width: =320
+        X: =88
+        Y: =352
+        ZIndex: =3
+

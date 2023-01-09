@@ -7,7 +7,7 @@ HomeScreen As screen:
         FontWeight: =FontWeight.Bold
         Height: =70
         Size: =21
-        Text: ="PowerApp Collobration"
+        Text: ="PowerApp Collobration 1"
         Width: =Parent.Width
         ZIndex: =1
 

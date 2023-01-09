@@ -10,7 +10,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:48:31",
+  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:50:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -18,7 +18,7 @@
     "MicrosoftTeams-image (2)": "ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png"
   },
   "LocalResourceRootPaths": {
-    "MicrosoftTeams-image (2)": "https://docserverpwaprodeus.blob.core.windows.net/a0a42ccd-0178-4691-88d0-bcd20f09214c-1/resource/5282812d-309d-4742-9d4d-ef3133ee7d9e.png?sv=2017-04-17&sr=b&sig=CRXsQNpkUcgGpywu0kV3Nkm7zahFXi4AmZKZehlpyC0%3D&spr=https&se=2023-01-10T14%3A03%3A27Z&sp=r"
+    "MicrosoftTeams-image (2)": "https://docserverpwaprodeus.blob.core.windows.net/727b3f69-d2bf-4f84-b22d-900cfeca6bb2-1/resource/Assets0Images0ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png?sv=2017-04-17&sr=b&sig=NirizAwUgsImTwv1ZilVjoijwUnPLITja8H0uSMcgZM%3D&spr=https&se=2023-01-10T14%3A05%3A42Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -53,12 +53,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0650241,
+    "AnalysisLoadTime": 0.0870468,
     "ControlCount": {
+      "image": 1,
       "label": 1,
-      "screen": 1
+      "screen": 1,
+      "text": 1
     },
-    "DeserializationLoadTime": 0.5449791,
+    "DeserializationLoadTime": 1.3198669,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

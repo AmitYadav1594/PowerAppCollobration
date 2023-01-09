@@ -4,16 +4,22 @@
   "ControlUniqueIds": {
     "App": 1,
     "HomeScreen": 3,
-    "Label1": 4
+    "Image1": 6,
+    "Label1": 4,
+    "TextInput1": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:43:09",
+  "HeaderLastSavedDateTimeUTC": "01/09/2023 13:48:31",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "MicrosoftTeams-image (2)": "ffef51f3-6313-4082-8ec3-1cf3a8ab4075.png"
+  },
+  "LocalResourceRootPaths": {
+    "MicrosoftTeams-image (2)": "https://docserverpwaprodeus.blob.core.windows.net/a0a42ccd-0178-4691-88d0-bcd20f09214c-1/resource/5282812d-309d-4742-9d4d-ef3133ee7d9e.png?sv=2017-04-17&sr=b&sig=CRXsQNpkUcgGpywu0kV3Nkm7zahFXi4AmZKZehlpyC0%3D&spr=https&se=2023-01-10T14%3A03%3A27Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -21,25 +27,38 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "label": 0
+    "image": 2,
+    "label": 0,
+    "text": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "HomeScreen": {},
-    "Label1": {}
+    "Image1": {},
+    "Label1": {},
+    "TextInput1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "HomeScreen": 0,
-    "Label1": 0
+    "Image1": 0,
+    "Label1": 0,
+    "TextInput1": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-MicrosoftTeams-image (2)": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0319938,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.0650241,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.5449791,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

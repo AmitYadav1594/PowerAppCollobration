@@ -11,3 +11,20 @@ HomeScreen As screen:
         Width: =Parent.Width
         ZIndex: =1
 
+    TextInput1 As text:
+        Default: ="Text input"
+        Height: =70
+        Size: =21
+        Width: =560
+        X: =26
+        Y: =198
+        ZIndex: =2
+
+    Image1 As image:
+        Height: =320
+        Image: ='MicrosoftTeams-image (2)'
+        Width: =320
+        X: =88
+        Y: =352
+        ZIndex: =3
+
